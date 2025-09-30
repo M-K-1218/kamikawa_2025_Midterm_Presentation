@@ -1,0 +1,2 @@
+# kamikawa_2025_Midterm_Presentation
+B4中間発表
