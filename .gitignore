@@ -20,3 +20,17 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+*.aux
+*.bbl
+*.doxy
+*.log
+*.out
+*.dvi
+*.fdb_latexmk
+*.class
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
