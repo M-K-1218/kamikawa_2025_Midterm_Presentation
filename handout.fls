@@ -61,6 +61,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
@@ -153,8 +155,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
@@ -255,9 +255,6 @@ INPUT ./boxplot_50_50.png
 INPUT ./boxplot_50_50.png
 INPUT ./boxplot_50_50.png
 INPUT extractbb -B cropbox -O boxplot_50_50.png
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-v.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-h.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx0900.tfm
 INPUT ./hist.png
 INPUT ./hist.png
 INPUT ./hist.png
