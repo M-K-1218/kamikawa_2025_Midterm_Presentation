@@ -34,3 +34,4 @@ TestResults.xml
 *.pdb
 *.ilk
 *.idb
+.DS_Store
