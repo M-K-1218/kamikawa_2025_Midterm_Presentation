@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{kamikawa2025}
+上川 雅弘, 住吉 晶, 松橋 拓人, and 矢崎 俊志.
+\newblock
+  エンタープライズ無線lan環境における通信品質改善のためのユーザ行動支援手法の提案.
+\newblock Technical Report 2025-IOT-107, IPSJ, 2025.
+
+\bibitem{Miyata2012}
+Sumiko Miyata, Tutomu Murase, and Katsunori Yamaoka.
+\newblock Novel access-point selection for user qos and system optimization
+  based on user cooperative moving.
+\newblock {\em IEICE Transactions on Communications}, E95-B:1953--1964, 2012.
+
+\end{thebibliography}

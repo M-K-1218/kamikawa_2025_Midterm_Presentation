@@ -225,7 +225,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecss1200.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-v.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-h.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecss1000.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -263,6 +262,12 @@ INPUT extractbb -B cropbox -O hist.png
 INPUT ./handout.bbl
 INPUT ./handout.bbl
 INPUT handout.bbl
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-v.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/japanese-otf/nmlgothr-h.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecti0800.tfm
 INPUT handout.aux
 INPUT ./handout.out
 INPUT ./handout.out

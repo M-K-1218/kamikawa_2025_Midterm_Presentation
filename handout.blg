@@ -1,51 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: handout.aux
-I couldn't open style file jplain.bst
----line 16 of file handout.aux
- : \bibstyle{jplain
- :                 }
-I'm skipping whatever remains of this command
-I found no style file---while reading file handout.aux
+The style file: unsrt.bst
+Database file #1: ref.bib
 You've used 2 entries,
-            0 wiz_defined-function locations,
-            88 strings with 529 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            1791 wiz_defined-function locations,
+            461 strings with 4083 characters,
+and the built_in function-call counts, 447 in all, are:
+= -- 36
+> -- 25
+< -- 1
++ -- 9
+- -- 7
+* -- 33
+:= -- 84
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
+cite$ -- 2
+duplicate$ -- 16
+empty$ -- 38
+format.name$ -- 7
+if$ -- 93
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 13
+num.names$ -- 2
+pop$ -- 3
+preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 0
+skip$ -- 4
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 27
+swap$ -- 2
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+while$ -- 3
+width$ -- 3
+write$ -- 24
